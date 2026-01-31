@@ -53,6 +53,12 @@ A latency alert system was created to:
 - Slack Alerts
 - Observability dashboards
 
+## 📊 Alert Example
+
+![Latency Alert](alert-example-1.jpeg)
+![Latency Alert](alert-example-2.jpeg)
+
+
 ---
 
 ## 📌 Key Takeaway
